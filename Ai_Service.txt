@@ -1,2 +1,4 @@
 deepseek.com
 openai.com
+chatgpt.com
+grok.com
