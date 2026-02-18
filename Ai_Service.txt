@@ -1,8 +1,6 @@
 deepseek.com
 chat.qwen.ai
-openai.com
-
+alice.yandex.ru
 chatgpt.com
-
+openai.com
 grok.com
-
